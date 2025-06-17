@@ -1,0 +1,16 @@
+C:\Users\Алексей\source\repos\BD1\bin\Debug\BD1.exe.config
+C:\Users\Алексей\source\repos\BD1\bin\Debug\BD1.exe
+C:\Users\Алексей\source\repos\BD1\bin\Debug\BD1.pdb
+C:\Users\Алексей\source\repos\BD1\obj\Debug\BD1.csproj.AssemblyReference.cache
+C:\Users\Алексей\source\repos\BD1\obj\Debug\BD1.Form1.resources
+C:\Users\Алексей\source\repos\BD1\obj\Debug\BD1.Properties.Resources.resources
+C:\Users\Алексей\source\repos\BD1\obj\Debug\BD1.csproj.GenerateResource.cache
+C:\Users\Алексей\source\repos\BD1\obj\Debug\BD1.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\source\repos\BD1\obj\Debug\BD1.exe
+C:\Users\Алексей\source\repos\BD1\obj\Debug\BD1.pdb
+C:\Users\Алексей\source\repos\BD1\obj\Debug\BD1.AddAircraft.resources
+C:\Users\Алексей\source\repos\BD1\obj\Debug\BD1.EditPilot.resources
+C:\Users\Алексей\source\repos\BD1\obj\Debug\BD1.EditPassenger.resources
+C:\Users\Алексей\source\repos\BD1\obj\Debug\BD1.EditFlight.resources
+C:\Users\Алексей\source\repos\BD1\obj\Debug\BD1.EditTicket.resources
+C:\Users\Алексей\source\repos\BD1\obj\Debug\BD1.Report.resources
